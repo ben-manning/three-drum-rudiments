@@ -28,7 +28,7 @@ A double stroke roll consists of the same alternating feel but rather than one s
 
 ### (Single) Paradiddle
 
-![Paradiddle Notation](images/single-paradiddle.png)
+![Paradiddle Notation](images/single-paradiddle.jpg)
 
 A paradiddle is a more complex rudiment and can be seen as a combination of a single and double stroke roll.  The total sequence of the rudiment comprises of two single strokes followed by a double stroke.  It is an extremely challenging rudiment to practice but helps drummers ( or anyone interested in rhythm ) feel comfortable with more complex techniques in drumming and beyond.
 
