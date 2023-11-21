@@ -20,15 +20,21 @@ While most drumming can be seen as very technical, at it's core, it is comprised
 
 A single stroke roll consists of alternating drum strokes between your right hand and your left hand in a consistent pattern.  This rudiment typically takes the form of eight or sixteenth notes when played to a metronome.
 
+[Single Stroke Roll Practice Video](https://www.youtube.com/watch?v=eiHp8IWW9Mw)
+
 ### Double Stroke Roll
 
 ![Double Stroke Roll Notation](images/double-stroke-roll.png)
 
 A double stroke roll consists of the same alternating feel but rather than one stroke or beat per hand, the drummer will play two per hand.  Like the single stroke roll this rudiment typically takes the form of eight or sixteenth notes when played to a metronome.
 
+[Double Stroke Roll Practice Video](https://www.youtube.com/watch?v=QyotUA554l4)
+
 ### (Single) Paradiddle
 
 ![Paradiddle Notation](images/single-paradiddle.jpg)
 
 A paradiddle is a more complex rudiment and can be seen as a combination of a single and double stroke roll.  The total sequence of the rudiment comprises of two single strokes followed by a double stroke.  It is an extremely challenging rudiment to practice but helps drummers ( or anyone interested in rhythm ) feel comfortable with more complex techniques in drumming and beyond.
+
+[Single Paradiddle Practice Video](https://www.youtube.com/watch?v=kPio-XnchYY)
 
